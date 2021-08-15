@@ -1,0 +1,62 @@
+
+.jumbotron-fluid{
+ background: url("../images/jumbotron.jpg");
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  height: calc(500px - 25px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width:100%;
+color: white;}
+
+.container{
+  background:lightblue;
+  
+}
+
+.aboutknitting{
+  padding:30px;
+  background-color: lightblue;
+}
+
+.aboutknitting h1{text-align: center;}
+
+.sectionHeading{
+    justify-content: center;
+}
+
+
+.carousel-inner{
+  height: 500px;
+
+}
+
+.card-img-top{
+  height:300px;
+}
+
+.d-block{
+  display:block;
+  height: auto;
+  max-width:50%;
+  line-height: 1;
+  margin:auto;
+  width: 50%;
+  
+}
+
+#carouselExampleCaptions{
+  background-color:lightblue;
+}
+
+.sectionHeading{
+  text-align:center;
+}
+
+.subHeading{
+text-align:center;}
+
+.patterns{
+  background-color:lightblue;
+}
